@@ -1,4 +1,4 @@
-# 🧠 CENG 442 – Assignment 1
+# CENG 442 – Assignment 1
 
 ### Azerbaijani Text Preprocessing + Word Embeddings (Domain-Aware)
 
@@ -139,14 +139,14 @@ python compare_models.py
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 * Efe Şahin
 * Selin Sargın
 
 ---
 
-## 📦 Repository Structure
+## Repository Structure
 
 ```
 main.py
@@ -162,4 +162,4 @@ corpus_all.txt
 ```
 
 **Embeddings (Google Drive):**
-[https://drive.google.com/drive/folders/](https://drive.google.com/drive/folders/)<YOUR_DRIVE_LINK_HERE>
+https://drive.google.com/drive/folders/137Q3tx8CUUwKk0xjfbPaUDn3PQLmgSZP?usp=sharing
