@@ -1,0 +1,7 @@
+pandas
+gensim
+openpyxl
+regex
+ftfy
+scikit-learn
+numpy
